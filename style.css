@@ -3,7 +3,7 @@
     padding: 0%;
 }
 body{
-    background-image: linear-gradient(#091446,#091446);
+    background-image: linear-gradient(#182a7e,#091446);
         color: white;
     font-family: 'Comfortaa', cursive;
 }
@@ -65,4 +65,7 @@ padding: 10px 0;
     .imagem-todos{
         display:grid;
      grid-template-columns: 60 60 60 60 60;
+    }
+    .footer{
+        background-image: linear-gradient(#9ea4be,#091446);
     }
